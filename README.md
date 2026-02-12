@@ -55,7 +55,6 @@ The model predicts house prices with the following accuracy:
 - **R2 Score**: ~0.67 (67.3%)
 
 ## Visualizations
-*(Add your plots here)*
 
 1.  **Actual vs Predicted Prices**
     ![Actual vs Predicted](images/scatter.png)
